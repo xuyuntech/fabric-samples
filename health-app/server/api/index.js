@@ -1,3 +1,4 @@
 import store from './store';
+import user from './user';
 
-export default { store };
+export default { store, user };
